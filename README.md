@@ -26,7 +26,7 @@ This is a Java-based GUI application for simulating core banking operations, suc
 ## 🖥️ Screenshots
 
 ### 🔹 Page 1: Personal Details Form  
-![Personal Details](https://www.linkedin.com/in/dipa-mondal-675a77344/)
+![Personal Details](https://github.com/dipa129/BankManagementSystem/blob/main/Screenshot/Screenshot%202025-07-14%20185546.png)
 
 ### 🔹 Page 2: Additional Details  
 ![Additional Details](https://github.com/dipa129/BankManagementSystem/blob/main/Screenshot/Screenshot%202025-07-14%20185614.png)
